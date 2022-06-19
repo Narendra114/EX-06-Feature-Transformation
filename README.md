@@ -21,8 +21,8 @@ Save the data to the file
 # CODE
 ```
 
-Developed By: Thirugnanamoorthi.G
-Register No: 212221230117
+Developed By: B.Naga Narendra
+Register No: 212219040024
 
 ```
 # titanic_dataset.csv
